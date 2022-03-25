@@ -4,3 +4,10 @@ Montreal
 Sydney
 New York
 Paris
+
+Tourist Attractions:
+Louvre
+CN Tower
+Ripley's Aquarium
+Eiffel Tower
+Sydney Opera House
